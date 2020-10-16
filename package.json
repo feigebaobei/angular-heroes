@@ -21,6 +21,7 @@
     "@angular/router": "~8.2.14",
     "angular-in-memory-web-api": "^0.9.0",
     "rxjs": "~6.4.0",
+    "sm.js": "^0.1.7",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
   },
